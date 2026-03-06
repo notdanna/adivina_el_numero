@@ -40,4 +40,4 @@ lib/
 - Dart
 - Material Design 3
 
-![Captura del juego](assets/juego.png)
+<img src="assets/juego.png" width="30%"/>
