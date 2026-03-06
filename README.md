@@ -39,3 +39,5 @@ lib/
 - Flutter 3.x
 - Dart
 - Material Design 3
+
+![Captura del juego](assets/juego.png)
